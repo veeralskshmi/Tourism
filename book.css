@@ -1,0 +1,62 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    background-image: url(images/booking.jpg);
+    background-color: aqua;
+}
+.container
+{
+    text-align: center;
+    justify-content: center;
+
+}
+h1
+{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.contactForm
+{
+    width:40%;
+    padding:40px;
+    background: lightblue;
+    margin-left: 350px;
+    trans
+    
+
+}
+.contactForm h2
+{
+   font-size: 30px;
+   color:#333;
+   font-weight: 500;
+}
+.contactForm .inputBox
+{
+    position:relative;
+    width:100%;
+    margin-top: 10px;
+}
+    
+.contactForm .inputBox input
+{
+
+    padding:5px ;
+    font-size: 16px;
+    margin:10px 0; 
+    justify-content: center;
+    text-align: center;
+
+}
+.contactForm .inputBox span
+{
+    font-size: 25px;
+}

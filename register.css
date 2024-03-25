@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}   
+body{
+    height: 100vh;
+    width: 50px;
+   
+   justify-content: center;
+   text-align: center;
+}
+
+.box
+{
+    border: 2px solid red;
+    width:400px;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 200px;
+    padding: 10px;
+
+
+}
